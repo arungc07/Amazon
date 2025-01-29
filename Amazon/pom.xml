@@ -65,7 +65,15 @@
       <artifactId>mssql-jdbc</artifactId>
       <version>11.2.1.jre18</version>
     </dependency>
+    
+<!-- https://mvnrepository.com/artifact/org.jenkins-ci.plugins/display-url-api -->
+<dependency>
+    <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>display-url-api</artifactId>
+    <version>2.200.vb_9327d658781</version>
+</dependency>
 
+    
   </dependencies>
 
   <build>
